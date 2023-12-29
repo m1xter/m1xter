@@ -1,8 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juan Vizcaya
 ====================================================================================================================================
 
-Informatic Engineer Student
----------------------------
+Computer Engineering Student
+----------------------------
+
+Since I was a child, the world of programming has fascinated me, from everything that can be created with it to the challenge it represents, which is why I want to see that I am capable of create
 
 * 🌍  I'm based in Venezuela
 * ✉️  You can contact me at [alejandro.vizcayag@gmail.com](mailto:alejandro.vizcayag@gmail.com)
